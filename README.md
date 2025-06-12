@@ -9,7 +9,7 @@ The microring modulator (MRM) includes an integrated diode (used as a temperatur
 This control mechanism ensures stable photonic performance by compensating for thermal drift in the silicon microring modulator.
 
 The PCB includes:
-- ADC to read diode voltage
-- DAC to control heater voltage
+- ADC to read the diode voltage
+- DAC to control the heater voltage
 - Microcontroller to implement the control loop
 - Supporting analog circuitry for signal conditioning
