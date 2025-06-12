@@ -1,4 +1,4 @@
-# Silicon MRR Temperature Controller
+# Silicon MRM Temperature Controller
 
 ## Project Description
 
