@@ -40,6 +40,8 @@ R_F = 200kΩ, R_G = 20kΩ, R_{bias} = 68kΩ, V_{ref} = 0.8V fixed at 27°C.
 ### Schematic
 
 ![Schematic](https://github.com/user-attachments/assets/3cf93552-52d6-49ab-9a65-e37df3af9436)
+![image](https://github.com/user-attachments/assets/e7bdf17f-0a22-40d0-b55f-b6ef1748fd06)
+
 
 ### PCB Layout
 
