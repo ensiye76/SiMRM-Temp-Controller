@@ -1,4 +1,4 @@
-# Silicon MRM Temperature Controller
+# Silicon Microring Modulator (MRM) Temperature Controller
 
 ## Project Description
 
