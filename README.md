@@ -30,7 +30,7 @@ The goal of this board is to provide highly stable and precise temperature contr
 
 ### Off-chip temperature controller block diagram
 Featuring a single-diode temperature sensor.  
-RF = 200kΩ, RG = 20kΩ, Rbias = 68kΩ, Vref = 0.8V fixed at 27°C.
+R_F = 200kΩ, R_G = 20kΩ, R_{bias} = 68kΩ, V_{ref} = 0.8V fixed at 27°C.
 
 ![Block Diagram](https://github.com/user-attachments/assets/7a36e55b-2aef-49b6-8516-d50d4a32daed)
 
