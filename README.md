@@ -11,10 +11,10 @@ This control mechanism ensures stable photonic performance by compensating for t
 The PCB includes:
 - ADC to read the diode voltage
 - DAC to control the heater voltage
-- Microcontroller to implement the control loop
+- Microcontroller (**AVR ATmega32**), programmed in C
 - Supporting analog circuitry for signal conditioning
 
-
+**Note:** The entire hardware and firmware design for this project was done by me, including schematic design, PCB layout, component selection, and firmware development.
 This four-layer PCB is one of the PCBs I designed as part of my Master’s thesis work. Additional PCB projects will be added to this portfolio soon.
 
 ## Background and Motivation
