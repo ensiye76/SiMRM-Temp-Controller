@@ -14,6 +14,9 @@ The PCB includes:
 - Microcontroller to implement the control loop
 - Supporting analog circuitry for signal conditioning
 
+
+This four-layer PCB is one of the PCBs I designed as part of my Master’s thesis work. Additional PCB projects will be added to this portfolio soon.
+
 ## Background and Motivation
 
 Silicon microring modulators are highly susceptible to temperature variations. Although they can be highly efficient for light modulation, their strong temperature sensitivity often limits their practical use, as it can cause significant drift in their optical response.  
