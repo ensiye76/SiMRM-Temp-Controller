@@ -26,3 +26,23 @@ The diode segment used for temperature sensing produces very small currents, as 
 
 The goal of this board is to provide highly stable and precise temperature control of the microring modulator by leveraging this integrated sensing mechanism and controlling the on-chip heater accordingly.
 
+## Hardware Overview
+Off-chip temperature controller block diagram featuring a
+ single-diode temperature sensor. RF = 200kΩ, RG = 20kΩ, Rbias = 68kΩ,
+ Vref = 0.8V fixed at 27◦C.
+![image](https://github.com/user-attachments/assets/7a36e55b-2aef-49b6-8516-d50d4a32daed)
+schematic
+![image](https://github.com/user-attachments/assets/3cf93552-52d6-49ab-9a65-e37df3af9436)
+
+layout
+![image](https://github.com/user-attachments/assets/f28dd7c2-1460-4664-bbc9-b781c3b0df4f)
+
+test setup diagram
+![image](https://github.com/user-attachments/assets/49401800-e30d-4e04-9659-394e83ca79e9)
+measurement
+![image](https://github.com/user-attachments/assets/0e814b70-5dc5-424c-a913-1ecdc1e9252e)
+after fabrication and soldered
+
+
+
+
